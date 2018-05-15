@@ -22,7 +22,7 @@ export default class HelloWorld extends React.Component<IProps, { }> {
 
         return (
             <div>
-                Hello {this.props.message}
+                Hello, Mr. {this.props.message}
             </div>
         );
     }

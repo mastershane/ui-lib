@@ -30,8 +30,5 @@
     "**/*.test.ts",
     "config",
     "dist"
-  ],
-  "files":[
-    "build/lib" 
   ]
 }
